@@ -1,6 +1,3 @@
-admin password = Admin@123
-remaining all password = 123456 # Sprintly — Product Lifecycle Management System
-
 A full-stack PLM (Product Lifecycle Management) web application built with the MERN stack. Sprintly streamlines the entire product development lifecycle — from client requests to deployment — with role-based access control, automated status tracking, and a structured task assignment flow.
 
 ---
