@@ -218,4 +218,4 @@ Server runs on `http://localhost:5000`
 **Parth Deokate**
 
 [![GitHub](https://img.shields.io/badge/GitHub-parthdeokate26-181717?style=flat&logo=github)](https://github.com/parthdeokate26)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthdeokate-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/parthdeokate)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-parthdeokate-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/parthdeokate](https://www.linkedin.com/in/parthdeaokte73?utm_source=share_via&utm_content=profile&utm_medium=member_android))
