@@ -213,22 +213,6 @@ Server runs on `http://localhost:5000`
 
 ---
 
-## Roadmap
-
-- [x] All 5 MongoDB models
-- [x] JWT auth with OTP password reset
-- [x] Role based middleware
-- [x] 38 REST API routes
-- [x] Automated project status tracking
-- [ ] React frontend
-- [ ] Deploy on Render + Vercel
-- [ ] Real time notifications via Socket.io
-- [ ] Video calling for daily standups
-- [ ] Dashboard analytics
-- [ ] AI sprint planner
-
----
-
 ## Author
 
 **Parth Deokate**
